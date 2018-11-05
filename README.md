@@ -1,6 +1,13 @@
 # OwnCli
 this repo for own commend line
 
+# Install Direct
+``````
+sudo php -r "copy ('http://127.0.0.1:1234','installCli.sh');"
+sudo chmod +x installCli.sh
+./installCli.sh
+sudo rm installCli.sh
+``````
 
 # Instalation
 
