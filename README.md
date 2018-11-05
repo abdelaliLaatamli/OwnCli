@@ -17,3 +17,5 @@ sudo chmod +x installCli.sh
 - Read this :
   > - This Article [How to create Own Cli](https://medium.com/devnetwork/how-to-create-your-own-custom-terminal-commands-c5008782a78e)
   > - This Article [How to add to system](https://www.geeksforgeeks.org/custom-commands-linux-terminal)
+  > - This Article [Typing in Cli Color](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
+  
